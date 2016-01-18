@@ -5,11 +5,14 @@ A curated list of awesome python web development libraries.
 
 #### Databases
 
-- [SQLAlchemy](http://www.sqlalchemy.org/) / [Flask-SQLAlchemy](https://github.com/mitsuhiko/flask-sqlalchemy)
-- [Alembic](https://bitbucket.org/zzzeek/alembic) / [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate)
-- [PyMySQL](https://github.com/PyMySQL/PyMySQL) / [psycopg2](https://github.com/psycopg/psycopg2)
+- [SQLAlchemy](http://www.sqlalchemy.org/)
+- [Alembic](https://bitbucket.org/zzzeek/alembic)
 - [redis](https://github.com/andymccurdy/redis-py)
+- [PyMySQL](https://github.com/PyMySQL/PyMySQL)
+- [psycopg2](https://github.com/psycopg/psycopg2)
 - [pymongo](http://github.com/mongodb/mongo-python-driver)
+
+- [factory_boy](https://github.com/rbarrois/factory_boy)
 
 #### Authentication
 
@@ -68,11 +71,14 @@ itsdangerous.BadSignature: Signature b'token' does not match
 
 
 ## Awesome Django libraries
-
+- [django-widget-tweaks](https://github.com/kmike/django-widget-tweaks)
+- [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar)
 
 ## Awesome flask libraries
 #### Databases
 - [Flask-Admin](https://github.com/mrjoes/flask-admin/)
+- [Flask-SQLAlchemy](https://github.com/mitsuhiko/flask-sqlalchemy)
+- [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate)
 
 #### Utils
 - [Flask-Script](https://github.com/smurfix/flask-script)
